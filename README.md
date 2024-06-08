@@ -1,46 +1,46 @@
-<h1 align="center">Привет 👋, я Алексей</h1>
-<h3 align="center">Сетевой инженер и разработчик</h3>
+<h1 align="center">Hello 👋, I'm Alexey</h1>
+<h3 align="center">Network Engineer and Developer</h3>
 
 ---
 
-### О себе
-Я сетевой инженер, увлечённый разработкой программного обеспечения. Разработка для меня больше хобби, которое позволяет совмещать основную деятельность с автоматизацией рутинных задач и помощью людям. Я специализируюсь на Python, а также знаком с JavaScript, PHP, HTML/CSS. 
+### About Me
+I am a network engineer passionate about software development. Development is more of a hobby for me, allowing me to combine my primary job with automating routine tasks and helping people. I specialize in Python and am also familiar with JavaScript, PHP, HTML/CSS.
 
 ---
 
-### Мои навыки и технологии:
-- **Языки программирования**: Python, JavaScript, PHP, HTML/CSS
-- **Фреймворки и библиотеки**: Django, Flask, React, Vue
-- **Базы данных**: MySQL, PostgreSQL, MongoDB, Redis
-- **Инфраструктура**: Docker, Kubernetes, Terraform, OpenTofu
-- **Оркестрация и конфигурация**: YAML, Ansible
-- **Инструменты и платформы**: Git, GitHub, AWS
-- **Технологии ИИ**: OpenAI, коммерческие ИИ проекты
+### My Skills and Technologies:
+- **Programming Languages**: Python, JavaScript, PHP, HTML/CSS
+- **Frameworks and Libraries**: Django, Flask, React, Vue
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Infrastructure**: Docker, Kubernetes, Terraform, OpenTofu
+- **Orchestration and Configuration**: YAML, Ansible
+- **Tools and Platforms**: Git, GitHub, AWS
+- **AI Technologies**: OpenAI, commercial AI projects
 
 ---
 
-### Текущие проекты:
-- 🔭 В настоящее время работаю над закрытым проектом Printer Management System: веб-приложение для управления настройками принтера, просмотра журнала печати и управления заданиями на печать.
+### Current Projects:
+- 🔭 Currently working on a closed project, Printer Management System: a web application for managing printer settings, viewing print logs, and managing print jobs.
 
 ---
 
-### Что я изучаю:
-- 🌱 В настоящее время изучаю **Python, JavaScript, PHP, системы Linux, Docker, Kubernetes, Terraform, Ansible**
+### What I'm Learning:
+- 🌱 Currently studying **Python, JavaScript, PHP, Linux systems, Docker, Kubernetes, Terraform, Ansible**
 
 ---
 
-### Как со мной связаться:
-- 📫 Email: **mymail@mail.com**
+### How to Reach Me:
+- 📫 Email: **aledukar@mail.ru**
 
 ---
 
-### Дополнительная информация:
-- 👯 Ищу сотрудничества на интересных проектах
-- 🤝 Открыт к помощи и новым предложениям
+### Additional Information:
+- 👯 Looking for collaboration on interesting projects
+- 🤝 Open to help and new opportunities
 
 ---
 
-### Языки и инструменты:
+### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
